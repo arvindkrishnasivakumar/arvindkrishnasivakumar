@@ -1,11 +1,11 @@
 ## Arvind Krishna
 
-uc berkeley  
-software + ai + product
+UC Berkeley  
+Software + Ai + Product
 
-building **Sprintly** and other things I think are useful.
+Building **Sprintly** and other things I think are useful.
 
-currently into:
+Currently Into:
 - full-stack
 - ai/ml
 - product management
